@@ -39,4 +39,9 @@ fn main() {
 
     // However, custom types such as this structure require more complicated
     // handling. This will not work.
+
+    // Floating point formatting
+    let pi = 3.14159265358979323;
+    println!("Pi to 3 decimal places {:.3}", pi);
+    println!("Pi to 7 decimal places {:.7}", pi);
 }
