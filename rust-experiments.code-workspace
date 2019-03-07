@@ -1,7 +1,22 @@
 {
-	"folders": [
-		{
-			"path": "hello-world"
-		}
-	]
+  "folders": [
+    {
+      "path": "hello-world"
+    },
+    {
+      "path": "formatted-print"
+    },
+    {
+      "path": "debug"
+    },
+    {
+      "path": "display"
+    },
+    {
+      "path": "gl-wasm"
+    },
+    {
+      "path": "web-server"
+    }
+  ]
 }
